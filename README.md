@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @acer51-doctom
 - 👀 I’m interested in making new friends
-- 🌱 I’m currently learning japanese and coding
-- 💞️ I’m looking to collaborate on nothing lol
-- 📫 How to reach me contact me on my professional mail adress : acerstudio19@gmail.com
+- 🌱 I am learning how to code
