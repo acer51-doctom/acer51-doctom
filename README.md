@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @acer51-doctom
-- 👀 I’m interested in making new friends
-- 🌱 I am learning how to code
+sup i'm arthur
