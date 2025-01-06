@@ -1,6 +1,6 @@
 Sup.
 
-![Gif of the nyan cat](/assets/nyan_cat.gif)
+![Gif of the nyan cat](https://tenor.com/fr/view/nyan-cat-nyan-cat-sticker-dm4uz3-gif-21050281)
 
 Nintendo's biggest modder
 
