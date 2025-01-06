@@ -1,5 +1,7 @@
 Sup.
 
+![Gif of the nyan cat](/assets/nyan_cat.gif)
+
 Nintendo's biggest modder
 
 **CONSOLES CURRENTLY MODDED:** 
