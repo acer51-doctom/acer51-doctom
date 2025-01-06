@@ -1,4 +1,4 @@
-Sup.
+Sup. My name's Arthur.
 
 ![Nyan Cat](https://gist.githubusercontent.com/jedsada-gh/dbee22959762fa6c0ccad8153830b51a/raw/8957088c2e31dba6d72ce86c615cb3c7bb7f0b0c/nyan-cat.gif)
 
@@ -12,6 +12,12 @@ Sup.
 
 I have a YouTube... Here it is: https://www.youtube.com/@Acer_51 <br>
 Here's my Discord if you have any issue or question: acer_51_ <br>
+
+----------------------------------------------------------------------------
+
+My website: https://acer51-doctom.github.io (finally have one, yay.)
+
+I'm a beginner in coding. I know HTML (and nothing elsee sadly but it'll change soon, i hope)
 
 ----------------------------------------------------------------------------
 
