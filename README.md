@@ -2,9 +2,6 @@ Sup.
 
 ![Nyan Cat](https://gist.githubusercontent.com/jedsada-gh/dbee22959762fa6c0ccad8153830b51a/raw/8957088c2e31dba6d72ce86c615cb3c7bb7f0b0c/nyan-cat.gif)
 
-
-Nintendo's biggest modder
-
 **CONSOLES CURRENTLY MODDED:** 
 - Nintendo Wii U (Heavily modded)
 - New Nintendo 3DS XL (my own and Heavily Modded)
