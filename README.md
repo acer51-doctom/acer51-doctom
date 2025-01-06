@@ -1,6 +1,6 @@
 Sup.
 
-<img src="https://gist.githubusercontent.com/jedsada-gh/dbee22959762fa6c0ccad8153830b51a/raw/8957088c2e31dba6d72ce86c615cb3c7bb7f0b0c/nyan-cat.gif" alt="Testing" height="400" width="1750">
+![Nyan Cat](https://gist.githubusercontent.com/jedsada-gh/dbee22959762fa6c0ccad8153830b51a/raw/8957088c2e31dba6d72ce86c615cb3c7bb7f0b0c/nyan-cat.gif)
 
 
 Nintendo's biggest modder
