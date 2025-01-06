@@ -1,6 +1,6 @@
 Sup.
 
-![Gif of the nyan cat](/nyan-cat.gif)
+![Nyan Cat Gif](https://gist.github.com/s-shivangi/7b54ec766cf446cafeb83882b590174d/raw/8957088c2e31dba6d72ce86c615cb3c7bb7f0b0c/nyan-cat.gif)
 
 Nintendo's biggest modder
 
