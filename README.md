@@ -15,7 +15,7 @@ Here's my Discord if you have any issue or question: acer_51_ <br>
 
 ----------------------------------------------------------------------------
 
-My website: https://acer51-doctom.github.io (finally have one, yay.)
+My website: don't have one :( but i'll make one soon muehehehehe
 
 I'm a beginner in coding. I know HTML (and nothing elsee sadly but it'll change soon, i hope)
 
