@@ -15,9 +15,7 @@ Here's my Discord if you have any issue or question: acer_51_ <br>
 
 ----------------------------------------------------------------------------
 
-My website: don't have one :( but i'll make one soon muehehehehe
-
-I'm a beginner in coding. Don't bother me.
+I like coding :3
 
 ----------------------------------------------------------------------------
 
