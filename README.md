@@ -8,10 +8,6 @@ Sup. My name's Arthur.
 - Nintendo Wii (Lightly modded)
 - Nintendo vWii (Heavily modded)
 - Old Nintendo 3DS XL (Heavily modded)
-----------------------------------------------------------------------------
-
-I have a YouTube... Here it is: https://www.youtube.com/@Acer_51 <br>
-Here's my Discord if you have any issue or question: acer_51_ <br>
 
 ----------------------------------------------------------------------------
 
