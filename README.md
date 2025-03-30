@@ -11,7 +11,7 @@ Sup. My name's Arthur.
 
 ----------------------------------------------------------------------------
 
-Here's my blog! [https://acer51-doctom.github.io](https://acer51-doctom.github.io)
+no website, i had to deprecate it :(
 
 ----------------------------------------------------------------------------
 
