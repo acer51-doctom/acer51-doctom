@@ -11,7 +11,9 @@ Sup. My name's Arthur.
 
 ----------------------------------------------------------------------------
 
-buy me ~~coffee~~ boba? <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me boba?', '#72a4f2', 'C0C21HBPG9');kofiwidget2.draw();</script> 
+buy me ~~coffee~~ boba? 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C21HBPG9)
 
 ----------------------------------------------------------------------------
 
