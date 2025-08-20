@@ -2,6 +2,7 @@ Hey! My name's Acer51 or Acer_51!
 
 ![Nyan Cat](https://gist.githubusercontent.com/jedsada-gh/dbee22959762fa6c0ccad8153830b51a/raw/8957088c2e31dba6d72ce86c615cb3c7bb7f0b0c/nyan-cat.gif)
 
+----------------------------------------------------------------------------
 **CONSOLES CURRENTLY MODDED:** 
 - Nintendo Wii U (Heavily modded)
 - New Nintendo 3DS XL (Heavily Modded)
@@ -14,6 +15,11 @@ Hey! My name's Acer51 or Acer_51!
 buy me ~~coffee~~ boba? 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C21HBPG9)
+
+----------------------------------------------------------------------------
+
+At day, I code for my project called "Breach In The Containment"! But at night, I'm more on the horror side of things, I am recreating FNaC 1 through 3 (including remaster) <br>
+for all platforms. My tool? Godot.
 
 ----------------------------------------------------------------------------
 
