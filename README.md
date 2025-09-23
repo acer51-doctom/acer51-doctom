@@ -25,4 +25,4 @@ This includes the following repo:[^1]
 
 
 [^1]: Note to developper (aka myself) that I need to update this regularly.
-[^2]: Piracy is bad and illegal. I do not take responsibility for what you did.
+[^2]: Piracy is bad and illegal. I do not take responsibility for what you do.
