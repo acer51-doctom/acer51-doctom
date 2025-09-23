@@ -18,11 +18,6 @@ buy me ~~coffee~~ boba?
 
 ----------------------------------------------------------------------------
 
-At day, I code for my project called "Breach In The Containment"! But at night, I'm more on the horror side of things, I am recreating FNaC 1 through 3 (including remaster) <br>
-for all platforms. My tool? Godot.
-
-----------------------------------------------------------------------------
-
 I do not endorse piracy. It's bad and illegal.
 This includes the following repo:[^1]
 
