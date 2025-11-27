@@ -9,6 +9,7 @@ Hey! My name's Acer51 or Acer_51!
 - Nintendo Wii (Lightly modded)
 - Nintendo vWii (Heavily modded)
 - Old Nintendo 3DS XL (Heavily modded)
+- New Nintendo 2DS XL (Heavily modded)
 
 ----------------------------------------------------------------------------
 
