@@ -16,13 +16,6 @@ Hey! My name's Acer51 or Acer_51!
 https://www.acer51.org
 
 ----------------------------------------------------------------------------
-
-buy me ~~coffee~~ boba? 
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C21HBPG9)
-
-----------------------------------------------------------------------------
-
 I do not endorse piracy. It's bad and illegal.
 This includes the following repo:[^1]
 
